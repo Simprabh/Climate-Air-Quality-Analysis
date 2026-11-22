@@ -4,8 +4,8 @@ Analysis of hourly air-quality and weather data for six Delhi locations in 2025.
 
 | | |
 |---|---|
-| 📋 Investigation Blueprint | [`docs/Investigation_Blueprint.md`](docs/Investigation_Blueprint.md) |
-| 📄 Technical Report | [`report/Technical_Report.md`](report/Technical_Report.md) |
+| 📋 Investigation Blueprint | [`docs/Investigation_Blueprint.md`](docs/Investigation_Blueprint.pdf) |
+| 📄 Technical Report | [`report/Technical_Report.md`](report/Technical_Report.pdf) |
 | 🗂️ Project board (Kanban) | See the repository's **Projects** tab · [screenshot](docs/kanban_board.png) |
 | 📊 Charts | [`visualizations/`](visualizations/) |
 
